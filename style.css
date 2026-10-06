@@ -195,7 +195,7 @@ body {
     color: #D1D5DB;
     padding: 32px;
 
-    display; flex;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
